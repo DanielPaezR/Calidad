@@ -13,6 +13,7 @@ public class Main {
         SaltGenerator saltGenerator = new SaltGenerator(secureRandom);
 
         //tercer commit
+        //segundo commit
 
 
         int length = 8; // Length of the salt
